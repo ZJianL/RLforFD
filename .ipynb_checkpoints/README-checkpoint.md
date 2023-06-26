@@ -8,9 +8,9 @@ A Reinforcement Learning Environment for credit card fraud detection.
 - `q_net.py` is a neural network (Q network) built using pytorch.
 - `replay_buffer.py` is the replay buffer setup.
 - download the dataset from https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud, and put it in `dataset`
-<<<<<<< HEAD
 
-| ![DQN_original_on_Returns](https://github.com/ZJianL/RLforFD/figures/DQN_original_on_Returns.png) | ![DQN_original_on_Q_value](https://github.com/ZJianL/RLforFD/figures/DQN_original_on_Q_value.png) |
+
+| ![DQN_original_on_Returns](figures/DQN_original_on_Returns.png) | ![DQN_original_on_Q_value](figures/DQN_original_on_Q_value.png) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![DQN_q_values_on_Returns](https://github.com/ZJianL/RLforFD/figures/DQN_q_values_on_Returns.png) | ![DQN_q_values_on_Q_value](https://github.com/ZJianL/RLforFD/figures/DQN_q_values_on_Q_value.png) |
-| ![DQN_q_targets_on_Returns](https://github.com/ZJianL/RLforFD/figures/DQN_q_targets_on_Returns.png) | ![DQN_q_targets_on_Q_value](https://github.com/ZJianL/RLforFD/figures/DQN_q_targets_on_Q_value.png) |
+| ![DQN_q_values_on_Returns](figures/DQN_q_values_on_Returns.png) | ![DQN_q_values_on_Q_value](figures/DQN_q_values_on_Q_value.png) |
+| ![DQN_q_targets_on_Returns](figures/DQN_q_targets_on_Returns.png) | ![DQN_q_targets_on_Q_value](figures/DQN_q_targets_on_Q_value.png) |
