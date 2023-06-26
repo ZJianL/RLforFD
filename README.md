@@ -10,7 +10,7 @@ A Reinforcement Learning Environment for credit card fraud detection.
 - download the dataset from https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud, and put it in `dataset`
 <<<<<<< HEAD
 
-| ![DQN_original on Returns](https://github.com/ZJianL/RLforFD/figures/DQN_original on Returns.png) | ![DQN_original on Q value](https://github.com/ZJianL/RLforFD/figures/DQN_original on Q value.png) |
+| ![DQN_original_on_Returns](https://github.com/ZJianL/RLforFD/figures/DQN_original_on_Returns.png) | ![DQN_original_on_Q_value](https://github.com/ZJianL/RLforFD/figures/DQN_original_on_Q_value.png) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![DQN_q_values on Returns](https://github.com/ZJianL/RLforFD/figures/DQN_q_values on Returns.png) | ![DQN_q_values on Q value](https://github.com/ZJianL/RLforFD/figures/DQN_q_values on Q value.png) |
-| ![DQN_q_targets on Returns](https://github.com/ZJianL/RLforFD/figures/DQN_q_targets on Returns.png) | ![DQN_q_targets on Q value](https://github.com/ZJianL/RLforFD/figures/DQN_q_targets on Q value.png) |
+| ![DQN_q_values_on_Returns](https://github.com/ZJianL/RLforFD/figures/DQN_q_values_on_Returns.png) | ![DQN_q_values_on_Q_value](https://github.com/ZJianL/RLforFD/figures/DQN_q_values_on_Q_value.png) |
+| ![DQN_q_targets_on_Returns](https://github.com/ZJianL/RLforFD/figures/DQN_q_targets_on_Returns.png) | ![DQN_q_targets_on_Q_value](https://github.com/ZJianL/RLforFD/figures/DQN_q_targets_on_Q_value.png) |
